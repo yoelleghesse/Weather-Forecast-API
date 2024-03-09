@@ -6,7 +6,7 @@ Clone this repository to your local machine:
 
 Navigate to the directory containing the script.
 
-Open the script in a text editor and replace '88f8b4a8993216acbdd0d2aa4556c120' with your [OpenWeatherMap]([url](https://openweathermap.org/)) API key
+Open the script in a text editor and replace '88f8b4a8993216acbdd0d2aa4556c120' with your [OpenWeatherMap](https://openweathermap.org/) API key
 
 Run the script using Python:
 
