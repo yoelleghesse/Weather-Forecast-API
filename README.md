@@ -15,6 +15,9 @@ Run the script using Python:
 The get_weather() function in the script accepts the following parameters:
 
 city (required): The name of the city for which you want to fetch weather data.
+
 units (optional): The units in which you want to receive the temperature data. Possible values are 'metric', 'imperial', or 'standard'. The default value is 'metric'.
+
 api_key (optional): Your OpenWeatherMap API key. The default value is a placeholder. Make sure to replace it with your actual API key.
+
 The function fetches weather data for the specified city from the OpenWeatherMap API and writes it to a file named data.txt. The data includes the date and time, temperature, and weather description.
